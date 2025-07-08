@@ -17,6 +17,12 @@ function Footer() {
               <br />
               All rights reserved.
             </p>
+            <div className="fs-4">
+              <i class="fa-brands fa-square-facebook pe-2"></i>
+              <i class="fa-brands fa-square-instagram pe-2"></i>
+              <i class="fa-brands fa-square-x-twitter pe-2"></i>
+              <i class="fa-brands fa-linkedin"></i>
+            </div>
           </div>
           <div className="col-9">
             <div class="row">
