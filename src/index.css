@@ -94,3 +94,31 @@ button:focus-visible {
   font-size: 0.8rem;
   padding: 0 1rem;
 }
+
+/* landing-page -> support */
+
+.support-table-style {
+  padding: 0 3rem 3rem 3rem;
+}
+
+.support-table-style th {
+  font-size: 1.125rem;
+  font-weight: 495;
+  padding-bottom: 1.25rem;
+}
+
+.support-table-style td {
+  font-size: 0.875rem;
+  color: #387ED1;
+  padding: 0.25rem 0;
+  padding-left: 2rem;
+}
+
+.support-hero-style {
+  background-color: #387ed1;
+  color: #fff;
+}
+
+.support-hero-style a {
+  color: #fff;
+}
